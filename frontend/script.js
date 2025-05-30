@@ -1,5 +1,5 @@
 //const APIURL = "http://localhost:3000/nomes";
-const APIURL="https://ta-restapi-deploy-demo.onrender.com/"
+const APIURL="https://ta-restapi-deploy-demo.onrender.com/nomes"
 async function mostranomes() {
     // identificar o div para colocar os nomes
     const divnomes = document.getElementById("lista");
